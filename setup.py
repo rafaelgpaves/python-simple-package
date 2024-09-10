@@ -6,7 +6,8 @@ setup(name='dev_aberto_rafaelgp3',
       author='Rafael G. P',
       python_requires='>=3.7',
       install_requires=[
-          'requests'
+          'requests',
+          'Babel'
       ],
       scripts=['scripts/hello.py'],
       )
