@@ -1,2 +1,5 @@
 env/
 build/
+
+cli.py
+locale/pt_BR/LC_MESSAGES/cli.*
